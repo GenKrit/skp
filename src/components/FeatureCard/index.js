@@ -16,7 +16,7 @@ const FeatureCard = ({Cards = []}) => {
         <div className="flex flex-wrap lg:place-content-center  -m-4">
           {Cards?.map((card) => {
             return (
-              <Link to={`/categories/${card.url}`} className="lg:p-4 p-2 md:w-1/4  cursor-pointer">
+              <Link to={`/categories/${card.name}`} className="lg:p-4 p-2 md:w-1/4  cursor-pointer">
                 <div className="flex rounded-lg  bg-gray-100 p-2 lg:p-4 flex-col">
                   <div className="flex items-center  lg:h-full ">
                     <div className="w-6 h-6 mr-1 lg:mr-3 inline-flex  items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">

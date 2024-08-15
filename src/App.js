@@ -15,7 +15,7 @@ function App() {
   return (
     <div className="text-gray-600 text-4xl">
       <Routes>
-        <Route path="/" element={<Login />} />
+        <Route path="/skp" element={<Login />} />
         <Route path="/signup" element={<Signup />} />
         <Route path="/home" element={<Home />} />
         <Route path="/products/:id" element={<Product />} />
