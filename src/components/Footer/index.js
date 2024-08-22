@@ -8,7 +8,7 @@ const Footer = () => {
       <a className="flex title-font font-medium items-center md:justify-start justify-center text-gray-900">
       <img src={image} width="10%"></img>
       </a>
-      <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2024 SP Ecommerce —
+      <p className="text-sm text-gray-500 sm:ml-4 sm:pl-4 sm:border-l-2 sm:border-gray-200 sm:py-2 sm:mt-0 mt-4">© 2024 Shashwat Pandey Ecommerce —
       
       </p>
       <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">

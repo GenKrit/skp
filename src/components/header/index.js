@@ -30,7 +30,7 @@ const header = ( ) => {
     <header className="text-gray-600 p1 body-font">
       <div className="container cursor-pointer mx-auto flex justify-between flex-wrap p-5 flex-col md:flex-row items-center">
         <Link to={'/'} className="flex justify-between font-medium items-center text-gray-900 mb-4 md:mb-0">
-          <img src="https://media.newyorker.com/photos/62c4511e47222e61f46c2daa/master/w_1920,c_limit/shouts-animals-watch-baby-hemingway.jpg" className='mix-blend-plus-darker' width={100} height={100} alt="Logo" />
+          <img src="https://www.logolynx.com/images/logolynx/1e/1efc179e7abba68d0e63fbcc4a857619.png" className='mix-blend-plus-darker' width={100} height={100} alt="Logo" />
           {/* <span className="ml-3 text-xl">Psg E-commerce</span> */}
         </Link>
         <nav className=" flex flex-wrap items-center text-base justify-center">

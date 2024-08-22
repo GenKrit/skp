@@ -7,7 +7,7 @@ const FeatureCard = ({Cards = []}) => {
       <div className="container px-5 py-24 mx-auto">
         <div className="flex flex-col text-center w-full mb-20">
           <h2 className="text-2xl text-red-800 tracking-widest font-medium title-font mb-1">
-           Product
+           Products
           </h2>
           <h1 className="sm:text-3xl text-2xl font-medium title-font text-gray-900">
          Select Categories
@@ -19,7 +19,7 @@ const FeatureCard = ({Cards = []}) => {
               <Link to={`/categories/${card.name}`} className="lg:p-4 p-2 md:w-1/4  cursor-pointer">
                 <div className="flex rounded-lg  bg-gray-100 p-2 lg:p-4 flex-col">
                   <div className="flex items-center  lg:h-full ">
-                    <div className="w-6 h-6 mr-1 lg:mr-3 inline-flex  items-center justify-center rounded-full bg-indigo-500 text-white flex-shrink-0">
+                    <div className="w-6 h-6 mr-1 lg:mr-3 inline-flex  items-center justify-center rounded-full bg-red-800 text-white flex-shrink-0">
                       <svg
                         fill="none"
                         stroke="currentColor"
