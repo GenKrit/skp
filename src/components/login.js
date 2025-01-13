@@ -14,7 +14,7 @@ function Login() {
     e.preventDefault();
 
     try {
-      const response = await axios.post("https://e-commerce-website-one-iota.vercel.app/", {
+      const response = await axios.post("https://skp-three.vercel.app/", {
         email,
         password,
       });
