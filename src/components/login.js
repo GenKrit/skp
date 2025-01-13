@@ -14,7 +14,7 @@ function Login() {
     e.preventDefault();
 
     try {
-      const response = await axios.post("https://skp-three.vercel.app/", {
+      const response = await axios.post(process.env.REACT_APP_API, {
         email,
         password,
       });
