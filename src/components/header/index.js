@@ -1,6 +1,6 @@
 import React, { useEffect ,useContext} from 'react';
 import { Link } from 'react-router-dom';
-// import image from './Psgpraveen.png';
+// import image from './image.png';
 // import { useLocation } from 'react-router-dom';
 import {Data} from '../Context/Index'
 

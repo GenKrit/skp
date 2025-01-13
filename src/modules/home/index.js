@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import PSG from "../../components/praveen";
+import PSG from "../../components/SPmain";
 import Header from "../../components/header";
 import Product from "../../components/productCard";
 import Stat from "../../components/stat";
