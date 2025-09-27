@@ -1,6 +1,7 @@
 # SP E-commerce project
-A modern React application built with Create React App for fast development and optimized production builds.
-A e-commerce app that enables exploring,cart,selecting product and buying,
+- A modern React application built with Create React App for fast development and optimized production builds.
+- A e-commerce app that enables exploring,cart,selecting product and buying
+- App is deployed on vercel
 
 ## 🚀 Getting Started
 
